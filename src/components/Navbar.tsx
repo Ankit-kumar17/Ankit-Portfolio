@@ -77,10 +77,13 @@ const Navbar = () => {
           <li>
             <button
               onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-              className="p-2 rounded-full hover:bg-secondary/80 transition-colors text-muted-foreground hover:text-primary"
               aria-label="Toggle theme"
+              className="relative flex items-center gap-2 px-3 py-1.5 rounded-full border border-border bg-secondary/60 hover:bg-secondary transition-all duration-300 text-muted-foreground hover:text-primary text-xs font-medium"
             >
-              {theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
+              <span className={`transition-transform duration-500 ${theme === 'dark' ? 'rotate-0' : 'rotate-180'}`}>
+                {theme === "dark" ? <Moon size={14} /> : <Sun size={14} />}
+              </span>
+              <span>{theme === "dark" ? "Dark" : "Light"}</span>
             </button>
           </li>
         </ul>
@@ -118,14 +121,17 @@ const Navbar = () => {
       {isMobileMenuOpen && (
         <div className="md:hidden glass-card mt-2 mx-4 rounded-xl animate-scale-in">
           <ul className="flex flex-col py-4">
-            <li className="px-6 py-2 border-b border-glass-border mb-2 flex justify-between items-center">
-              <span className="text-sm text-muted-foreground">Theme</span>
+            <li className="px-6 py-3 border-b border-glass-border mb-2 flex justify-between items-center">
+              <span className="text-sm text-muted-foreground font-medium">Theme</span>
               <button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-                className="p-2 rounded-full hover:bg-secondary/80 transition-colors"
                 aria-label="Toggle theme"
+                className="flex items-center gap-2 px-4 py-2 rounded-full border border-border bg-secondary/60 hover:bg-secondary transition-all duration-300 text-sm font-medium text-muted-foreground hover:text-primary"
               >
-                {theme === "dark" ? <Sun size={20} /> : <Moon size={20} />}
+                <span className={`transition-transform duration-500 ${theme === 'dark' ? 'rotate-0' : 'rotate-180'}`}>
+                  {theme === "dark" ? <Moon size={16} /> : <Sun size={16} />}
+                </span>
+                {theme === "dark" ? "Dark Mode" : "Light Mode"}
               </button>
             </li>
             {navLinks.map((link) => (

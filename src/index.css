@@ -8,6 +8,46 @@
 
 @layer base {
   :root {
+    /* Light mode (default) */
+    --background: 210 40% 97%;
+    --foreground: 222 47% 8%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 8%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 8%;
+
+    --primary: 177 70% 38%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 40% 92%;
+    --secondary-foreground: 222 47% 15%;
+
+    --muted: 210 40% 90%;
+    --muted-foreground: 215 20% 40%;
+
+    --accent: 280 70% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62.8% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 32% 85%;
+    --input: 214 32% 85%;
+    --ring: 177 70% 38%;
+
+    --radius: 0.75rem;
+
+    /* Custom portfolio tokens */
+    --gradient-start: 177 70% 38%;
+    --gradient-end: 280 70% 55%;
+    --glow: 177 70% 38%;
+    --glass: 210 40% 96%;
+    --glass-border: 214 32% 80%;
+  }
+
+  .dark {
     --background: 222 47% 6%;
     --foreground: 210 40% 98%;
 
@@ -36,19 +76,12 @@
     --input: 222 30% 18%;
     --ring: 177 70% 50%;
 
-    --radius: 0.75rem;
-
     /* Custom portfolio tokens */
     --gradient-start: 177 70% 50%;
     --gradient-end: 280 70% 60%;
     --glow: 177 70% 50%;
     --glass: 222 47% 10%;
     --glass-border: 222 30% 25%;
-  }
-
-  .dark {
-    --background: 222 47% 6%;
-    --foreground: 210 40% 98%;
   }
 }
 
