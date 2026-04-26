@@ -1,4 +1,3 @@
-
 # Ankit Kumar | Frontend Developer
 
 Welcome to my professional portfolio! I am a passionate **Frontend Developer** specializing in building clean, responsive, and user-friendly web applications using **React**.
@@ -59,3 +58,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - **GitHub:** [@Ankit-kumar17](https://github.com/Ankit-kumar17)
 - **Twitter:** [@Ankit_s_Kumar](https://x.com/Ankit_s_Kumar)
 - **Email:** [Contact via Portfolio](https://github.com/Ankit-kumar17)
+
+---
+*Created with ❤️ by Ankit Kumar*
