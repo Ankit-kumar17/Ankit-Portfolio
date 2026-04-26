@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
 
-## Project info
+# Ankit Kumar | Frontend Developer
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Welcome to my professional portfolio! I am a passionate **Frontend Developer** specializing in building clean, responsive, and user-friendly web applications using **React**.
 
-## How can I edit this code?
+## 🚀 About Me
 
-There are several ways of editing your application.
+I am currently pursuing my **B.E. in Computer Engineering** at Swaminarayan University (2025–2029). My goal is to turn innovative ideas into reality through clean code and modern UI/UX patterns. I specialize in creating premium, high-performance web experiences with a focus on accessibility and responsiveness.
 
-**Use Lovable**
+- 📍 Based in: India
+- 🎓 Education: Swaminarayan University
+- 💼 Status: Available for new opportunities
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+### Frontend
+- **Frameworks:** React.js, Next.js
+- **Styling:** Tailwind CSS, CSS3, SCSS
+- **Animations:** Framer Motion, GSAP
+- **State Management:** React Context API, TanStack Query
 
-**Use your preferred IDE**
+### Backend & Database
+- **Runtime:** Node.js
+- **Database:** MongoDB
+- **API:** RESTful APIs, Integration
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Tools & Languages
+- **Languages:** JavaScript (ES6+), C, C++
+- **Version Control:** Git & GitHub
+- **Design:** Figma (Implementation)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📁 Featured Projects
 
-Follow these steps:
+### 1. E-Commerce Web App
+A full-stack shopping platform with real-time inventory synchronization, product filtering, and a seamless checkout experience.
+- **Tech:** React, Node.js, MongoDB, Express
+- [View Project](https://github.com/Ankit-kumar17)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 2. Task Management System
+A lightweight, lightning-fast Kanban-style board designed to boost productivity with optimistic UI updates and real-time tracking.
+- **Tech:** React, REST APIs, JavaScript
+- [View Project](https://github.com/Ankit-kumar17)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 3. Developer Portfolio Website
+A premium, glassmorphic portfolio utilizing modern UI patterns, dark mode, and smooth Framer Motion animations.
+- **Tech:** React, Tailwind CSS, Framer Motion
+- [View Project](https://github.com/Ankit-kumar17)
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📊 GitHub Stats
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit-kumar17&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kumar17&layout=compact&theme=transparent)
 
-**Edit a file directly in GitHub**
+## 📬 Get In Touch
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- **LinkedIn:** [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-abbbb0336/)
+- **GitHub:** [@Ankit-kumar17](https://github.com/Ankit-kumar17)
+- **Twitter:** [@Ankit_s_Kumar](https://x.com/Ankit_s_Kumar)
+- **Email:** [Contact via Portfolio](https://github.com/Ankit-kumar17)
