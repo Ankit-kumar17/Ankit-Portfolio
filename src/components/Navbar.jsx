@@ -101,7 +101,7 @@ const Navbar = () => {
           <DialogContent className="sm:max-w-4xl h-[85vh] p-0 border-white/20 bg-background/95 backdrop-blur-xl flex flex-col overflow-hidden">
             <div className="flex-1 w-full h-full p-4 md:p-8">
               <iframe
-                src="https://drive.google.com/file/d/1gEWFBOJEq74-wpXnj_saQ_JGjxxA5P3o/preview"
+                src="/resume.pdf"
                 className="w-full h-full rounded-lg bg-white"
                 title="Resume PDF"
               />
@@ -164,7 +164,7 @@ const Navbar = () => {
                 </DialogTrigger>
                 <DialogContent className="w-[95vw] max-w-4xl h-[85vh] p-4 border-white/20 bg-background/95 backdrop-blur-xl flex flex-col rounded-xl">
                   <iframe
-                    src="https://drive.google.com/file/d/1gEWFBOJEq74-wpXnj_saQ_JGjxxA5P3o/preview"
+                    src="/resume.pdf"
                     className="w-full h-full rounded-lg bg-white mt-4"
                     title="Resume PDF"
                   />

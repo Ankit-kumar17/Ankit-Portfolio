@@ -104,7 +104,7 @@ const Hero = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row items-start gap-4 mb-10 animate-slide-up opacity-0 stagger-4">
               <a
-                href="https://drive.google.com/file/d/1gEWFBOJEq74-wpXnj_saQ_JGjxxA5P3o/view?usp=drive_link"
+                href="/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group px-8 py-3 rounded-lg bg-primary text-primary-foreground font-semibold hover:opacity-90 transition-all flex items-center justify-center gap-2 glow-sm"
